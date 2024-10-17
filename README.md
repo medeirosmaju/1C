@@ -26,3 +26,13 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </body>
+
+
+
+
+
+body{
+ color: deeppink;
+ background: rgb(73, 130, 235)
+
+}
